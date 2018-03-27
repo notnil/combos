@@ -1,2 +1,3 @@
-# combo
-Go (Golang) Combinations Library
+# combos
+
+combos is a simple combinations package exporting one function
